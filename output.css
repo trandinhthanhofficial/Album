@@ -7,7 +7,8 @@
 
 body {
   font-family: "Indie Flower", cursive;
-  background-color: #eee;
+  background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+  with: 100vh;
   color: #555;
   text-align: center;
   padding: 4em 0;
